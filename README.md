@@ -51,8 +51,6 @@ Information Sciences, Florida Atlantic University (GPA 3.86).
 ### Education & credentials
 
 - **M.S. Computer and Information Sciences** — Florida Atlantic University, GPA 3.86
-- **B.Tech Computer Science and Engineering** — Vignan's Nirula Institute of Technology
-  and Science for Women, CGPA 8.0/10
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - *Hybrid model of a passive aggressive classifier machine learning approach to fake news
   detection* — published, Springer
