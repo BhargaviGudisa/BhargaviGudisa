@@ -1,4 +1,4 @@
-# Bhargavi Reddy Gudisa
+# Bhargavi Gudisa
 
 **Software Engineer — Cloud Infrastructure & AI Quality**
 
